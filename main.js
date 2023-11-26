@@ -22,5 +22,3 @@ while (contador < listaDeTeclas.length) {
 }
 
 //Teste de commit. Segundo teste de commit But there is a few things to add yet
-
-
