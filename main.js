@@ -20,5 +20,5 @@ while (contador < listaDeTeclas.length) {
     contador = contador + 1;
     //console.log(contador);
 }
-duhad dnud naud adna d
+duhadteda
 //Teste de commit. Segundo teste de commit But there is a few things to add yet
